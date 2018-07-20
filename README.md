@@ -44,7 +44,7 @@ Estão disponíveis os vídeos e os slides de 25 aulas, com livre acesso, e link
 
 **Sequência das aulas**
 
-`Sugestão 1` -  Seguir a sequência numérica das aulas.
+`Sugestão 1` -  Seguir a sequência numérica das aulas.<br>
 `Sugestão 2` -  Adiantar o núcleo incremento da qualidade para logo após o núcleo básico, para que os cuidados com a maximização da qualidade sejam considerados ao longo da prática de modelagem.
 
 ---
